@@ -195,4 +195,3 @@ For issues or questions:
 
 ---
 
-**Ready for submission!** This app meets all internship assignment requirements with bonus features for deep linking and backend simulation.
